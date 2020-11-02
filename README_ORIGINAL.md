@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # WeiboSpider-Simple
 [English Version Readme](./README_EN.md)
 
@@ -96,6 +97,8 @@ python run_spider.py tweet
 ```
 ![](./.github/images/tweet-keyword-spider.png)
 =======
+=======
+>>>>>>> 931c773d16b06a6d6accd99aba17fb671b55b85f
 # WeiboSpider-Analyze
 Analyze relationship network with comment times and so on among tweets themselves. Modified from https://github.com/nghuyong/WeiboSpider/
 
@@ -113,4 +116,7 @@ Print them if you need to use Excel through **mongoexport** library.
 1. When compiling WeiboSpider, you should confirm your python version and unify all system's version, otherwise the spider cannot be started.
 2. If MongoDB cannot return any results with pymongo but do in MongoDB terminal, you should try to use "_id" enrty in String mode.
 3. Contact me with Issues and I am glad to help you if you have any problems.
+<<<<<<< HEAD
+>>>>>>> 931c773d16b06a6d6accd99aba17fb671b55b85f
+=======
 >>>>>>> 931c773d16b06a6d6accd99aba17fb671b55b85f
